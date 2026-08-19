@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Arunima Anil:mailto:Arunima.Anil@qubiqon.io
+DESCRIPTION;LANGUAGE=en-US:Dear Aysha Fina\,\n\nWe would like to schedule y
+ ou for a technical interview (Virtual MS Teams Meeting) as per the details
+  shared below:\n\n\nDate: 19 Aug 2026\n\nTiming: 03:30 pm\n\n\nPre-Meeting
+  Checklist (Read Before confirming to the Invite):\n\n• Ensure to enter 
+ the meeting at least 10 minutes prior to your interview preferably using a
+  “Desktop/Laptop with a functioning Mic and Camera” .\n\n• As soon a
+ s the interviewer joins ensure your “Audio is Unmuted” and “Video is
+  Enabled”.\n\n• Check your call volume level and make sure it isn’t 
+ low or disabled.\n\n• If there are any technical issues in your Video / 
+ Audio which haven’t been resolved after 5 minutes from the time the inte
+ rviewer has joined\, please contact the recruiter\n\n\nClick here to view 
+ candidate resume<https://docs.talentzq.io/1008/Profiles/AK-DE-TR-002/finas
+ aleem197@gmail.com/Resume_finasaleem197@gmail.com.pdf?sv=2025-07-05&se=202
+ 6-09-18T09%3A09%3A12Z&sr=b&sp=r&sig=LIJ4jNJUOBK5ZoUv7cdeibJJUfETnNzHW%2Bsq
+ xvJWpS0%3D>\n\n___________________________________________________________
+ _____________________\nMicrosoft Teams meeting\nJoin: https://teams.micros
+ oft.com/meet/429595953829326?p=rUKsBeh6o5SgrOuEJr\nMeeting ID: 429 595 953
+  829 326\nPasscode: B6Ky2uj7\n________________________________\nNeed help?
+ <https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://te
+ ams.microsoft.com/l/meetup-join/19%3ameeting_ZTJmMzZiZTEtMGQ0NS00YTY1LWI4Y
+ mMtY2Q3YTA3NDZkMDgx%40thread.v2/0?context=%7b%22Tid%22%3a%22cea95265-0690-
+ 4a6d-9251-e12e48630c60%22%2c%22Oid%22%3a%228d93b342-783f-44a5-b557-5e85c0f
+ 52af8%22%7d>\nFor organizers: Meeting options<https://teams.microsoft.com/
+ meetingOptions/?organizerId=8d93b342-783f-44a5-b557-5e85c0f52af8&tenantId=
+ cea95265-0690-4a6d-9251-e12e48630c60&threadId=19_meeting_ZTJmMzZiZTEtMGQ0N
+ S00YTY1LWI4YmMtY2Q3YTA3NDZkMDgx@thread.v2&messageId=0&language=en-US>\n___
+ __________________________________________________________________________
+ ___\n---------------------------------------------------------------------
+ -------------------\nQUBIQON CONFIDENTIALITY NOTICE: This email and any at
+ tachments are confidential and intended solely for the use of the individu
+ al or entity to whom they are addressed. If you have received this email i
+ n error\, please notify the sender immediately\, delete it from your syste
+ m\, and do not copy or disclose its contents to anyone. Any unauthorized u
+ se\, dissemination\, distribution\, or copying of this email is strictly p
+ rohibited. Qubiqon Consulting India Private Limited accepts no liability f
+ or any loss or damage arising from the use of this email or its attachment
+ s.\n
+UID:040000008200E00074C5B7101A82E00800000000C51F4C3CF12EDD01000000000000000
+ 01000000094B76BFEEDD07F4E9F407D632940542A
+SUMMARY;LANGUAGE=en-US:akumenbyQ-Data Stack Trainer (Engineering & Analytic
+ s)-Interview-Aysha Fina
+DTSTART;TZID=India Standard Time:20260819T153000
+DTEND;TZID=India Standard Time:20260819T161500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260818T090916Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:Online Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:2124976561
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZTJmMzZiZTEtMGQ0NS00YTY1LWI4YmMtY2Q3YTA3NDZkMDgx%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22cea95265-0690-4a6d-9251-e12e48630c60%22%2c%22O
+ id%22%3a%228d93b342-783f-44a5-b557-5e85c0f52af8%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/cea95265-0690-4a6d-9251-e12e48630c60/8d93b342-783f-44a5-b557-5
+ e85c0f52af8/19_meeting_ZTJmMzZiZTEtMGQ0NS00YTY1LWI4YmMtY2Q3YTA3NDZkMDgx@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ZTJmMzZiZTEtMGQ0NS00YTY
+ 1LWI4YmMtY2Q3YTA3NDZkMDgx@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Online Meeting
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Online Meeting"\,"LocationAnnotation
+ ":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationS
+ tate":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddr
+ ess":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
